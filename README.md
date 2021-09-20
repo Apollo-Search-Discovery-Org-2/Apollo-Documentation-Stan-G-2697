@@ -1,2 +1,3 @@
 # Apollo-Documentation-Stan-G-2697
-An Apollo generated Event Driven Data Layer
+
+<p><em><strong>THIS IS NOT THE</strong></em> GTM Property default note.</p>
